@@ -1,0 +1,22 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "server file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "me"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "aromal.krishnan1234@github.com"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqllite": "^1.1.2"
+  }
+}
